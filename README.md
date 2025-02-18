@@ -44,7 +44,9 @@ list.printList();  // Output: 10 -> 30 -> NULL
 
 ## Delete item 0 in array:
 <img width="967" alt="Screenshot 2025-02-18 at 2 44 27 PM" src="https://github.com/user-attachments/assets/160a6ac7-e902-4661-8d42-41e926cd6565" />
+
 ## Delete item 1 in array:
 <img width="967" alt="Screenshot 2025-02-18 at 2 44 08 PM" src="https://github.com/user-attachments/assets/e1123d1f-3c1e-4b43-882f-65a10e7b8dd5" />
+
 ## Delete item 2 in array:
 <img width="967" alt="Screenshot 2025-02-18 at 2 44 17 PM" src="https://github.com/user-attachments/assets/1a5d95f7-0321-43f2-a1ca-babb49db6072" />
