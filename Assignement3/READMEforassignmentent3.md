@@ -27,6 +27,10 @@ Top and Popped: 10
 Error: Stack is empty!
 ```
 
+Photo of Output:
+<img width="1377" alt="Screenshot 2025-03-05 at 12 05 21 PM" src="https://github.com/user-attachments/assets/9dde4ecf-ad84-4683-b478-5d87f3e7706a" />
+
+
 ## Requirements
 - C++ compiler 
 
