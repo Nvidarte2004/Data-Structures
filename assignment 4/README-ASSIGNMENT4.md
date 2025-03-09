@@ -28,6 +28,13 @@ Removes an element from the front of the queue. If there's only one element in t
 ### 5. `void getFront()`
 Displays the data of the front element of the queue. If the queue is empty, it shows a message indicating so.
 
+
+## Screenshot
+<img width="1389" alt="Screenshot 2025-03-09 at 2 06 50 PM" src="https://github.com/user-attachments/assets/96c79362-eabd-4dc4-88ab-4636978ac6c2" />
+
+## Author
+Natalie Vidarte
+
 ## Example
 
 ```cpp
@@ -45,12 +52,7 @@ q.dequeue();
 q.dequeue();
 q.dequeue(); // Output: Queue is empty, cannot dequeue! ```
 
-## Screenshot
-<img width="1389" alt="Screenshot 2025-03-09 at 2 06 50 PM" src="https://github.com/user-attachments/assets/96c79362-eabd-4dc4-88ab-4636978ac6c2" />
 
-
-## Author
-Natalie Vidarte
 
 
 
