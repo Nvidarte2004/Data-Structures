@@ -43,7 +43,7 @@ q.getFront(); // Output: Front element is: 20
 
 q.dequeue();
 q.dequeue();
-q.dequeue(); // Output: Queue is empty, cannot dequeue!
+q.dequeue(); // Output: Queue is empty, cannot dequeue! ```
 
 ## Screenshot
 <img width="1389" alt="Screenshot 2025-03-09 at 2 06 50 PM" src="https://github.com/user-attachments/assets/96c79362-eabd-4dc4-88ab-4636978ac6c2" />
