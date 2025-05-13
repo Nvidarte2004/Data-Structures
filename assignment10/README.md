@@ -31,21 +31,15 @@ else:
 pop()
 End While
 
-### How to Run:
 
-Clone this repository:
-git clone https://github.com/your-username/graph-traversal-cpp.git
-cd graph-traversal-cpp
-Compile the code using g++:
-g++ -o graph main.cpp
-Run the executable:
-./graph
 ### Sample Graph Used:
- 0
+ ```
+  0
 / \
 1 2
 / \ \
 3 4 5
+```
 ### Sample Output:
 Breadth First Traversal starting from vertex 0: 0 1 2 3 4 5
 Depth First Traversal starting from vertex 0: 0 1 3 4 2 5
